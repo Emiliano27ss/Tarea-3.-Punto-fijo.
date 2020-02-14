@@ -1,7 +1,7 @@
 /*Alumno: Emiliano Sanchez Olivares
 Grupo: 2SV2
 Curso: Metodos Numericos
-Tarea: 3.1
+Tarea: 3.2
 
 */
 #include<stdio.h>
@@ -36,7 +36,7 @@ return raiz;
 }
 int main()
 {
-printf("\n\tPrograma que calcula la raiz de la funcion    2x^2 -x -5 = 0 por el metodo de punto fijo   ");
+printf("\n\tPrograma que calcula la raiz de la funcion   e^(-x) -x = 0. por el metodo de punto fijo   ");
 printf("\nDigita un valor inicial para empezar a evaluar la funcion");
 printf("\nX inicial: ");
 scanf("%f",&xInicial);
